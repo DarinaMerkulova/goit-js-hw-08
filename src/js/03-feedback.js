@@ -23,7 +23,6 @@ function onFormSubmit(event) {
 
   localStorage.removeItem(STORAGE_KEY);
   form.reset();
-
 }
 
 function populeteTextarea() {
